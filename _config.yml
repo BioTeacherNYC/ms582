@@ -2,9 +2,9 @@
 title: MS 582 Science Website
 author: Dr. Weber
 email: jweber@ms582.org
-description: A wonderful site
+description: A website for students of MS 582
 twitter_username: BioTeacherNYC
-github_username:  MS582
+github_username:  BioTeacherNYC
 
 # Build settings
 markdown: kramdown

@@ -1,0 +1,11 @@
+# Basic options
+title: MS 582 Science Website
+author: Dr. Weber
+email: jweber@ms582.org
+description: A wonderful site
+twitter_username: BioTeacherNYC
+github_username:  MS582
+
+# Build settings
+markdown: kramdown
+theme: minima

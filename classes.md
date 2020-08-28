@@ -3,7 +3,7 @@ layout: page
 title: Classes
 ---
 
-This is an about page about this awesome site.
+This page is all about this awesome site.
 Hope you love it!
 
 Reasons:
